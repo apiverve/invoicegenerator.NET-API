@@ -32,9 +32,9 @@ From within Visual Studio:
 
 1. Open the Solution Explorer.
 2. Right-click on a project within your solution.
-3. Click on Manage NuGet Packages...
+3. Click on Manage NuGet Packages..
 4. Click on the Browse tab and search for "APIVerve.API.InvoiceGenerator".
-5. Click on the APIVerve.API.InvoiceGenerator package, select the appropriate version in the right-tab and click Install.
+5. Click on the APIVerve.API.InvoiceGenerator package, click Install.
 
 
 ---
@@ -130,9 +130,9 @@ if(response.error != null) {
   "status": "ok",
   "error": null,
   "data": {
-    "pdfName": "6b118488-0663-478f-aa45-86ba3feaeaa9.pdf",
-    "expires": 1738776282359,
-    "downloadURL": "https://storage.googleapis.com/apiverve-helpers.appspot.com/htmltopdf/6b118488-0663-478f-aa45-86ba3feaeaa9.pdf?GoogleAccessId=1089020767582-compute%40developer.gserviceaccount.com&Expires=1738776282&Signature=OOciV8On8ICsCjOu40Q88r%2FmyztJsSQMtgJj%2BgU1izmsFiMhoj78191%2FJw3iMHg5xT1OU%2FqHPyEjdjOlqfZOTAUD5nhnwcnUjcityhaYjl%2BWuacCvNYyeQZ%2F4InMVVzsYBjljnE1Z%2BQ%2BsRZJeCobwvB9owtovDMpTJ89l%2BM69XaoGJSRyte0YbPK4tWX5F2v4yeSso0m1S%2FGHdjZgKDX7fbNBSuBVC3S%2FFwbB1w61lglLCus0A9P0dutlfYc1pvcm%2FkOE%2B5c7TjztqgqAGzGcM6OaWXMUK8r5KGIj8DY6IBCcqf9qgCmo4%2BjOP7gyPEDbpvPunN2vubHVYGa6Ui5jQ%3D%3D"
+    "pdfName": "f9210db5-8be3-4de4-8b20-d58019b0600a.pdf",
+    "expires": 1740259902629,
+    "downloadURL": "https://storage.googleapis.com/apiverve-helpers.appspot.com/htmltopdf/f9210db5-8be3-4de4-8b20-d58019b0600a.pdf?GoogleAccessId=1089020767582-compute%40developer.gserviceaccount.com&Expires=1740259902&Signature=PVHHoAfVg%2BUOXCC1kt3m3ttRAns6UTrYPm8%2BVS19hEFAH27VG%2FnZHgUl75iUYpZozqycZw7etohyekZIBPeqozfFWkkodkMvi487x2onk%2B3S9nQN5J0gmPxhcfWVjT4jPxk7ggQMhG2rl7QCxjAhG9OGo1U9OuhSYdJXaQqEmOMhTDkhW%2BB3RFMHqXmgYZHBLo8kh1aLLK%2FdKbGOF5ofR33W0w%2F5ywdykG%2BAnk0Rv3oxTIppAR%2F4NsDeqhYBgq3yXyRubOgcZGBEEtAj2bpYPuzNtqKgF7aENTQe4MkghWct8P4qs%2F8MDSSMCZCN1B24Xz8TxGGem814qThfv3DLOw%3D%3D"
   },
   "code": 200
 }
@@ -160,7 +160,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
